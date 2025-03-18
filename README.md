@@ -1,6 +1,6 @@
 # SwarAI
 
-Copyright (YEAR) (Your Name)
+Copyright 2025 Nitin Tomar
 
 Permission is granted to view the source code for reference purposes only.
 
