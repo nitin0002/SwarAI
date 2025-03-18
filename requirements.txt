@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-cloud-texttospeech
+openai
+pydub
+whisper
+aiohttp
+asyncpg
+python-dotenv
+SQLAlchemy>=1.4
+twilio
