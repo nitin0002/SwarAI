@@ -1,9 +1,9 @@
 # SwarAI
 
-Copyright 2025 Nitin Tomar
+## 📜 License
 
-Permission is granted to view the source code for reference purposes only.
+[![License](https://img.shields.io/badge/License-Restricted--Use-red)](LICENSE.md)
 
-You may NOT copy, modify, distribute, or use this code for any purpose without explicit written permission from the owner.
+This project is licensed under the **Restricted Use License**.  
+See the `LICENSE.md` file for full details.
 
-All rights reserved.
