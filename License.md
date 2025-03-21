@@ -47,3 +47,4 @@ The Owner reserves the right to:
 ## **6. Contact Information**
 For inquiries or permission requests, contact:  
 📧 **ntomar.0020@gmail.com**
+
